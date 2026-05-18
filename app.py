@@ -1,1 +1,2 @@
-print("This is the Main text.")
+print("This is the alternate text.")
+
