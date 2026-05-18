@@ -1,1 +1,1 @@
-print("This is the original text.")
+print("This is the alternate text.")
