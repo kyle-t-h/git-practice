@@ -1,2 +1,2 @@
-print("This is the alternate text.")
+print("Issue Resolved!")
 
